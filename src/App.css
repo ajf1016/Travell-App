@@ -5,6 +5,7 @@
     text-decoration: none;
     color: #222;
     box-sizing: border-box;
+    outline:none;
 }
 ul,
 ol {
